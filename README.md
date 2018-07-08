@@ -1,1 +1,2 @@
 # XGBoost-to-classify-activities-using-smartphone-sensors
+We will classify activity performed by the user, using the data collected from the users smartphone and provied in UCI Machine Learning Repository. The train and test data can be dowloaded from https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones/home. The model uses XGBoost and achieved F1-score of between 0.92 and 1.00 for all the activities.
